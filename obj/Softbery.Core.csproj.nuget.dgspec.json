@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/softbery/Dotnet/SoftberyManager/Softbery.Core/Softbery.Core.csproj": {}
+  },
+  "projects": {
+    "/home/softbery/Dotnet/SoftberyManager/Softbery.Core/Softbery.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/softbery/Dotnet/SoftberyManager/Softbery.Core/Softbery.Core.csproj",
+        "projectName": "Softbery.Core",
+        "projectPath": "/home/softbery/Dotnet/SoftberyManager/Softbery.Core/Softbery.Core.csproj",
+        "packagesPath": "/home/softbery/.nuget/packages/",
+        "outputPath": "/home/softbery/Dotnet/SoftberyManager/Softbery.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/softbery/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.200/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
