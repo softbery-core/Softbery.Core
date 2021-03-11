@@ -2,6 +2,7 @@
 
 namespace Softbery.Core
 {
+    
     public class Core
     {
     

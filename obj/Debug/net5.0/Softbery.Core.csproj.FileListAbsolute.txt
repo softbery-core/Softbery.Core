@@ -1,0 +1,12 @@
+/home/softbery/Dotnet/SoftberyManager/Softbery.Core/bin/Debug/net5.0/Softbery.Core.deps.json
+/home/softbery/Dotnet/SoftberyManager/Softbery.Core/bin/Debug/net5.0/Softbery.Core.dll
+/home/softbery/Dotnet/SoftberyManager/Softbery.Core/bin/Debug/net5.0/ref/Softbery.Core.dll
+/home/softbery/Dotnet/SoftberyManager/Softbery.Core/bin/Debug/net5.0/Softbery.Core.pdb
+/home/softbery/Dotnet/SoftberyManager/Softbery.Core/obj/Debug/net5.0/Softbery.Core.csprojAssemblyReference.cache
+/home/softbery/Dotnet/SoftberyManager/Softbery.Core/obj/Debug/net5.0/Softbery.Core.GeneratedMSBuildEditorConfig.editorconfig
+/home/softbery/Dotnet/SoftberyManager/Softbery.Core/obj/Debug/net5.0/Softbery.Core.AssemblyInfoInputs.cache
+/home/softbery/Dotnet/SoftberyManager/Softbery.Core/obj/Debug/net5.0/Softbery.Core.AssemblyInfo.cs
+/home/softbery/Dotnet/SoftberyManager/Softbery.Core/obj/Debug/net5.0/Softbery.Core.csproj.CoreCompileInputs.cache
+/home/softbery/Dotnet/SoftberyManager/Softbery.Core/obj/Debug/net5.0/Softbery.Core.dll
+/home/softbery/Dotnet/SoftberyManager/Softbery.Core/obj/Debug/net5.0/ref/Softbery.Core.dll
+/home/softbery/Dotnet/SoftberyManager/Softbery.Core/obj/Debug/net5.0/Softbery.Core.pdb
